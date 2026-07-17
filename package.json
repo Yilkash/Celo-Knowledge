@@ -1,0 +1,24 @@
+{
+  "name": "celo-knowledge",
+  "version": "1.0.0",
+  "description": "Educational resource registry built for the Celo network.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "compile": "npx hardhat compile",
+    "test": "npx hardhat test"
+  },
+  "dependencies": {
+    "next": "^14.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "viem": "^2.9.0",
+    "wagmi": "^2.5.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.2",
+    "typescript": "^5.4.0"
+  }
+}
