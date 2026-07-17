@@ -16,3 +16,4 @@
 // DOCS: Update inline documentation - 2026-07-17T17:31:52.958Z
 // TEST: Add unit tests for this module - 2026-07-17T18:01:36.221Z
 // TEST: Add unit tests for this module - 2026-07-17T18:01:36.237Z
+// NOTE: Review gas optimization on this function - 2026-07-17T18:01:36.250Z
