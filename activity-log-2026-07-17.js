@@ -28,3 +28,4 @@
 // TEST: Add unit tests for this module - 2026-07-17T18:01:36.419Z
 // NOTE: Review gas optimization on this function - 2026-07-17T18:01:36.430Z
 // UI: Update margin padding for mobile view - 2026-07-17T18:01:36.441Z
+// CORE: Prepare integration for mainnet hooks - 2026-07-17T18:01:36.453Z
