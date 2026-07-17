@@ -7,3 +7,4 @@
 // TEST: Add unit tests for this module - 2026-07-17T17:31:52.880Z
 // DOCS: Update inline documentation - 2026-07-17T17:31:52.889Z
 // DOCS: Update inline documentation - 2026-07-17T17:31:52.897Z
+// CORE: Prepare integration for mainnet hooks - 2026-07-17T17:31:52.904Z
