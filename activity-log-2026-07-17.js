@@ -32,3 +32,4 @@
 // DOCS: Update inline documentation - 2026-07-17T18:04:44.081Z
 // DOCS: Update inline documentation - 2026-07-17T18:04:44.091Z
 // TODO: Refactor state management - 2026-07-17T18:04:44.100Z
+// NOTE: Review gas optimization on this function - 2026-07-17T18:04:44.110Z
