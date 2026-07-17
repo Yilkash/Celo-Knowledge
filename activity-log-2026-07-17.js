@@ -29,3 +29,4 @@
 // NOTE: Review gas optimization on this function - 2026-07-17T18:01:36.430Z
 // UI: Update margin padding for mobile view - 2026-07-17T18:01:36.441Z
 // CORE: Prepare integration for mainnet hooks - 2026-07-17T18:01:36.453Z
+// DOCS: Update inline documentation - 2026-07-17T18:04:44.081Z
