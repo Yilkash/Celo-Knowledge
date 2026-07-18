@@ -56,3 +56,4 @@
 // DOCS: Update inline documentation - 2026-07-18T20:16:02.962Z
 // NOTE: Review gas optimization on this function - 2026-07-18T20:16:02.979Z
 // CORE: Prepare integration for mainnet hooks - 2026-07-18T20:16:02.995Z
+// TODO: Refactor state management - 2026-07-18T20:16:03.010Z
