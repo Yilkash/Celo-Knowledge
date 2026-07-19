@@ -7,7 +7,7 @@ pragma solidity ^0.8.20;
  * Manages educational resources, reviews, tipping, and reputation.
  */
 contract KnowledgeRegistry {
-    address public contractOwner;
+    address public owner;
     uint256 public totalResources;
     uint256 public totalReviews;
     uint256 public platformFeePercentage = 5; // 5% fee
@@ -59,7 +59,7 @@ contract KnowledgeRegistry {
     event ReviewAdded(uint256 indexed reviewId, uint256 indexed resourceId, address indexed reviewer, uint8 rating);
 
     modifier onlyOwner() {
-        require(msg.sender == contractOwner, "err-owner-only");
+        require(msg.sender == owner, "err-owner-only");
         _;
     }
 
@@ -74,7 +74,7 @@ contract KnowledgeRegistry {
     }
 
     constructor() {
-        contractOwner = msg.sender;
+        owner = msg.sender;
     }
 
     function registerResource(
@@ -116,7 +116,7 @@ contract KnowledgeRegistry {
 
         // Transfers
         payable(res.uploader).transfer(uploaderAmount);
-        payable(contractOwner).transfer(platformFee);
+        payable(owner).transfer(platformFee);
 
         // Update Stats
         res.totalTips += msg.value;
