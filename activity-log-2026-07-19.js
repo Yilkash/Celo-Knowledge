@@ -8,3 +8,4 @@
 // TEST: Add unit tests for this module - 2026-07-19T05:52:14.983Z
 // TODO: Refactor state management - 2026-07-19T05:52:14.991Z
 // CORE: Prepare integration for mainnet hooks - 2026-07-19T05:52:14.998Z
+// PERF: Implement memoization - 2026-07-19T05:52:15.006Z
