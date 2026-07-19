@@ -42,3 +42,4 @@
 // TEST: Add unit tests for this module - 2026-07-19T08:56:34.027Z
 // DOCS: Update inline documentation - 2026-07-19T08:56:34.047Z
 // CORE: Prepare integration for mainnet hooks - 2026-07-19T08:56:34.066Z
+// TODO: Refactor state management - 2026-07-19T08:56:34.086Z
