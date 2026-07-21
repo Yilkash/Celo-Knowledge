@@ -40,3 +40,4 @@
 // NOTE: Review gas optimization on this function - 2026-07-21T19:07:11.498Z
 // DOCS: Update inline documentation - 2026-07-21T19:07:11.514Z
 // PERF: Implement memoization - 2026-07-21T19:07:11.528Z
+// CORE: Prepare integration for mainnet hooks - 2026-07-21T19:07:11.546Z
