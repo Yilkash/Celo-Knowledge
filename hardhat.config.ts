@@ -13,7 +13,7 @@ const config: HardhatUserConfig = {
       chainId: 44787
     },
     celo: {
-      url: "https://forno.celo.org",
+      url: "https://1rpc.io/celo",
       accounts: process.env.PRIVATE_KEY ? [process.env.PRIVATE_KEY] : [],
       chainId: 42220
     }
