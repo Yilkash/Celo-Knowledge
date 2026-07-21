@@ -23,3 +23,4 @@
 // CORE: Prepare integration for mainnet hooks - 2026-07-21T05:14:15.547Z
 // TEST: Add unit tests for this module - 2026-07-21T05:14:15.561Z
 // TEST: Add unit tests for this module - 2026-07-21T05:14:15.572Z
+// NOTE: Review gas optimization on this function - 2026-07-21T05:14:15.584Z
