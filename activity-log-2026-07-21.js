@@ -35,3 +35,4 @@
 // PERF: Implement memoization - 2026-07-21T19:07:11.372Z
 // UI: Update margin padding for mobile view - 2026-07-21T19:07:11.402Z
 // CORE: Prepare integration for mainnet hooks - 2026-07-21T19:07:11.442Z
+// TODO: Refactor state management - 2026-07-21T19:07:11.462Z
