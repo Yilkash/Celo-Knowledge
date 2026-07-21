@@ -17,3 +17,4 @@
 // TODO: Refactor state management - 2026-07-21T05:14:15.469Z
 // CORE: Prepare integration for mainnet hooks - 2026-07-21T05:14:15.484Z
 // FIX: Optimize rendering pipeline - 2026-07-21T05:14:15.498Z
+// DOCS: Update inline documentation - 2026-07-21T05:14:15.510Z
