@@ -7,3 +7,4 @@
 // CORE: Prepare integration for mainnet hooks - 2026-07-22T04:17:53.076Z
 // UI: Update margin padding for mobile view - 2026-07-22T04:17:53.117Z
 // UI: Update margin padding for mobile view - 2026-07-22T04:17:53.158Z
+// NOTE: Review gas optimization on this function - 2026-07-22T04:17:53.203Z
