@@ -2,3 +2,4 @@
 // TEST: Add unit tests for this module - 2026-07-23T17:57:30.911Z
 // CORE: Prepare integration for mainnet hooks - 2026-07-23T17:57:30.930Z
 // PERF: Implement memoization - 2026-07-23T17:57:30.937Z
+// NOTE: Review gas optimization on this function - 2026-07-23T17:57:30.945Z
