@@ -11,3 +11,4 @@
 // FIX: Optimize rendering pipeline - 2026-07-23T17:57:30.991Z
 // UI: Update margin padding for mobile view - 2026-07-23T17:57:30.998Z
 // PERF: Implement memoization - 2026-07-23T17:57:31.006Z
+// CORE: Prepare integration for mainnet hooks - 2026-07-23T17:57:31.013Z
