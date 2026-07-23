@@ -13,3 +13,4 @@
 // PERF: Implement memoization - 2026-07-23T17:57:31.006Z
 // CORE: Prepare integration for mainnet hooks - 2026-07-23T17:57:31.013Z
 // CORE: Prepare integration for mainnet hooks - 2026-07-23T17:57:31.021Z
+// DOCS: Update inline documentation - 2026-07-23T17:57:31.029Z
