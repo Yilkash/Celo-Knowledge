@@ -28,3 +28,4 @@
 // TEST: Add unit tests for this module - 2026-07-24T18:49:50.624Z
 // NOTE: Review gas optimization on this function - 2026-07-24T18:49:50.644Z
 // TODO: Refactor state management - 2026-07-24T18:49:50.665Z
+// DOCS: Update inline documentation - 2026-07-24T18:49:50.687Z
