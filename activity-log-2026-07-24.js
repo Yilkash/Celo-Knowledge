@@ -37,3 +37,4 @@
 // CORE: Prepare integration for mainnet hooks - 2026-07-24T18:50:21.509Z
 // DOCS: Update inline documentation - 2026-07-24T18:50:21.529Z
 // CORE: Prepare integration for mainnet hooks - 2026-07-24T18:50:21.549Z
+// TODO: Refactor state management - 2026-07-24T18:50:21.575Z
