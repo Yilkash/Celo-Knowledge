@@ -19,3 +19,4 @@
 // TEST: Add unit tests for this module - 2026-07-25T18:15:18.004Z
 // CORE: Prepare integration for mainnet hooks - 2026-07-25T18:15:18.020Z
 // UI: Update margin padding for mobile view - 2026-07-25T18:15:18.036Z
+// DOCS: Update inline documentation - 2026-07-25T18:15:18.063Z
