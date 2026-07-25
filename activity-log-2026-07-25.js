@@ -31,3 +31,4 @@
 // DOCS: Update inline documentation - 2026-07-25T18:15:18.272Z
 // TEST: Add unit tests for this module - 2026-07-25T20:08:37.617Z
 // PERF: Implement memoization - 2026-07-25T20:08:37.683Z
+// NOTE: Review gas optimization on this function - 2026-07-25T20:08:37.710Z
