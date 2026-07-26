@@ -7,3 +7,4 @@
 // TODO: Refactor state management - 2026-07-26T07:09:03.915Z
 // DOCS: Update inline documentation - 2026-07-26T07:09:03.927Z
 // CORE: Prepare integration for mainnet hooks - 2026-07-26T07:09:03.940Z
+// PERF: Implement memoization - 2026-07-26T07:09:03.958Z
