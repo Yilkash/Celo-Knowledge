@@ -21,3 +21,4 @@
 // TEST: Add unit tests for this module - 2026-07-26T12:54:04.631Z
 // TEST: Add unit tests for this module - 2026-07-26T12:54:04.643Z
 // PERF: Implement memoization - 2026-07-26T12:54:04.654Z
+// NOTE: Review gas optimization on this function - 2026-07-26T12:54:04.665Z
